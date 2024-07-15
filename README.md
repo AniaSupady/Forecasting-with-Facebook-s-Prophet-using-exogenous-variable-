@@ -12,22 +12,22 @@ Facebook's Prophet is a popular open-source forecasting library that can handle 
 
 **Workflow:**  
 
-The notebook first loads the necessary libraries and the dataset.
-It then fits the Prophet model on the historical data.
-Next, it generates future values of the exogenous variables (regressors).
-Finally, it uses the fitted model and the simulated regressor values to forecast the target variable.
+The notebook first loads the necessary libraries and the dataset.  
+It then fits the Prophet model on the historical data.  
+Next, it generates future values of the exogenous variables (regressors).  
+Finally, it uses the fitted model and the simulated regressor values to forecast the target variable.  
 
 **Benefits of Prophet:**  
 
-Easy to use with minimal parameter tuning
-Can handle common time series patterns well
-Allows incorporating relevant predictors to improve forecasts
+Easy to use with minimal parameter tuning  
+Can handle common time series patterns well  
+Allows incorporating relevant predictors to improve forecasts  
 
-**Potential Limitations:**  
+**Potential Limitations:**    
 
-May not be as flexible as custom ARIMA/SARIMAX models
-Simulating future regressor values can be challenging
-In summary, the search results demonstrate how to use Facebook's Prophet library to forecast a target variable (Y) by incorporating simulated future values of exogenous variables (Xs). This approach can be useful when you have relevant predictor variables that can help improve the forecasting accuracy.
+May not be as flexible as custom ARIMA/SARIMAX models  
+Simulating future regressor values can be challenging  
+In summary, the search results demonstrate how to use Facebook's Prophet library to forecast a target variable (Y) by incorporating simulated future values of exogenous variables (Xs). This approach can be useful when you have relevant predictor variables that can help improve the forecasting accuracy.  
 
 
 
