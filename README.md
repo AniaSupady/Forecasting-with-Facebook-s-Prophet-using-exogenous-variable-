@@ -1,0 +1,2 @@
+# Forecasting-with-Facebook-s-Prophet-using-exogenous-variable-
+Prophet is a forecasting tool developed by Facebook designed to handle time series data that displays patterns on different time scales such as daily, weekly, monthly, etc. It is particularly useful for datasets that exhibit strong seasonal effects and has been widely adopted due to its simplicity and ability to produce high-quality forecasts.
