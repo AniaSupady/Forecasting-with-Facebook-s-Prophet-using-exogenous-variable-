@@ -4,9 +4,39 @@
 https://github.com/AniaSupady/Forecasting-with-Facebook-s-Prophet-using-exogenous-variable-/blob/main/Facebook's_Prophet.ipynb
 
 
----
+-----
+**Forecasting with Facebook's Prophet:**  
+
+**Prophet Library:**  
+Facebook's Prophet is a popular open-source forecasting library that can handle time series with trend, seasonality, and holiday effects. It allows specifying additional regressors (called "additional regressors") that can be used to make forecasts.
+
+**Workflow:**  
+
+The notebook first loads the necessary libraries and the dataset.
+It then fits the Prophet model on the historical data.
+Next, it generates future values of the exogenous variables (regressors).
+Finally, it uses the fitted model and the simulated regressor values to forecast the target variable.
+
+**Benefits of Prophet:**  
+
+Easy to use with minimal parameter tuning
+Can handle common time series patterns well
+Allows incorporating relevant predictors to improve forecasts
+
+**Potential Limitations:**  
+
+May not be as flexible as custom ARIMA/SARIMAX models
+Simulating future regressor values can be challenging
+In summary, the search results demonstrate how to use Facebook's Prophet library to forecast a target variable (Y) by incorporating simulated future values of exogenous variables (Xs). This approach can be useful when you have relevant predictor variables that can help improve the forecasting accuracy.
 
 
+
+
+
+
+
+
+------
 Prophet is a forecasting tool developed by Facebook designed to handle time series data that displays patterns on different time scales such as daily, weekly, monthly, etc. It is particularly useful for datasets that exhibit strong seasonal effects and has been widely adopted due to its simplicity and ability to produce high-quality forecasts.
 
 Key Features of Prophet:
