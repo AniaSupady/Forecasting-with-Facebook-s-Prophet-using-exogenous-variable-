@@ -1,4 +1,4 @@
-# Forecasting-with-Facebook-s-Prophet-using-exogenous-variable-
+# Forecasting with Facebook's Prophet using exogenous variable, by Ania Supady
 
 ---
 https://github.com/AniaSupady/Forecasting-with-Facebook-s-Prophet-using-exogenous-variable-/blob/main/Facebook's_Prophet.ipynb
